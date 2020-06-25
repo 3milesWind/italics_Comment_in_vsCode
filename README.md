@@ -26,5 +26,12 @@ Final, directly change by following:
     ]
   }
 ```
-
+By the way, you must add few more code in order to complete it
+```
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Dank Mono, Operator Mono",
+    /*if you like, you also can change the font size*/
+  "editor.fontSize": 14,
+```
+<img src="Image/final.png" alt="final" width="500px">
 

@@ -11,7 +11,7 @@ Then,Directly go to the setting, and type the "ditor.tokenColorCustomizations", 
 <img src="Image/setting1.png" alt="setting1" width="500px">
 
 Final, directly change by following:
-<p style="color: #3498db">
+```
 "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -25,6 +25,6 @@ Final, directly change by following:
       }
     ]
   }
-</p>
+```
 
 
